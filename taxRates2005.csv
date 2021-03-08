@@ -1,0 +1,37 @@
+Year,Area,PropertyClass,RTC_RTQ,TaxRate_Total
+2005,Urban,Residential,RT/RH,0.02033913
+2005,Urban,Multi-Residential,MT,0.02525568
+2005,Urban,Commercial - Occupied,CT,0.04965319
+2005,Urban,Commercial - Excess Land,CU,0.03475722
+2005,Urban,General Rate Only (International Bridge),CM,0.02907529
+2005,Urban,Shopping Centres,ST,0.05271013
+2005,Urban,Shopping - Excess Land,SU,0.03689709
+2005,Urban,Office Buildings,DT,0.07252096
+2005,Urban,Office Bldg - Excess Land,DU,0.05076467
+2005,Urban,Parking Lots/Commercial - Vacant Land,GT/CX,0.03671901
+2005,Urban,Industrial - Occupied,IT/IH,0.0552817
+2005,Urban,Industrial - Excess Land,IU,0.03593312
+2005,Urban,Industrial - Vacant Land,IX,0.03593312
+2005,Urban,Large Industrial - Occupied,LT,0.07872805
+2005,Urban,Large Industrial - Excess Land,LU,0.05117324
+2005,Urban,Pipeline,PT,0.04352483
+2005,Urban,Farm,FT,0.00508479
+2005,Urban,Managed Forests,TT,0.00508479
+2005,Rural,Residential,RT/RH,0.01943661
+2005,Rural,Multi-Residential,MT,0.02409784
+2005,Rural,Commercial - Occupied,CT,0.04814327
+2005,Rural,Commercial - Excess Land,CU,0.03370028
+2005,Rural,General Rate Only (International Bridge),CM,0.02756537
+2005,Rural,Shopping Centres,ST,0.05110726
+2005,Rural,Shopping - Excess Land,SU,0.03577508
+2005,Rural,Office Buildings,DT,0.07031565
+2005,Rural,Office Bldg - Excess Land,DU,0.04922096
+2005,Rural,Parking Lots/Commercial - Vacant Land,GT/CX,0.03560242
+2005,Rural,Industrial - Occupied,IT/IH,0.05354426
+2005,Rural,Industrial - Excess Land,IU,0.03480378
+2005,Rural,Industrial - Vacant Land,IX,0.03480378
+2005,Rural,Large Industrial - Occupied,LT,0.07625234
+2005,Rural,Large Industrial - Excess Land,LU,0.04956402
+2005,Rural,Pipeline,PT,0.04217141
+2005,Rural,Farm,FT,0.00485916
+2005,Rural,Managed Forests,TT,0.00485916

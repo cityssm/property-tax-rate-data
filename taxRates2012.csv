@@ -1,0 +1,47 @@
+Year,Area,PropertyClass,RTC_RTQ,TaxRate_Municipal,TaxRate_Education,TaxRate_Total
+2012,Urban,Residential,RT/RH,0.01647951,0.00221,0.01868951
+2012,Urban,Multi-Residential,MT,0.02065867,0.00221,0.02286867
+2012,Urban,Commercial - Occupied,CT/CH,0.03145411,0.0126,0.04405411
+2012,Urban,Commercial-New Construction,XT,0.03145411,0.0126,0.04405411
+2012,Urban,Commercial-New Construction-Excess Land,XU,0.02201788,0.00882,0.03083788
+2012,Urban,Commercial - Excess Land,CU,0.02201788,0.00882,0.03083788
+2012,Urban,Commercial - Vacant Land,CX/CJ,0.02326063,0.0126,0.03586063
+2012,Urban,General Rate Only (International Bridge),CM,0.03145411,0,0.03145411
+2012,Urban,Shopping Centres,ST,0.0333906,0.0126,0.0459906
+2012,Urban,Shopping - Excess Land,SU,0.02337342,0.00882,0.03219342
+2012,Urban,Office Buildings,DT,0.04594027,0.0126,0.05854027
+2012,Urban,Office Bldg - Excess Land,DU,0.0321582,0.00882,0.0409782
+2012,Urban,Parking Lots,GT,0.02326063,0.0126,0.03586063
+2012,Urban,Industrial - Occupied,IT/IH,0.04189987,0.0126,0.05449987
+2012,Urban,Industrial - New Construction,JT,0.04189987,0.0126,0.05449987
+2012,Urban,Industrial - New Construction - Excess land,JU,0.02723491,0.00819,0.03542491
+2012,Urban,Industrial - Excess Land,IU,0.02723491,0.00819,0.03542491
+2012,Urban,Industrial - Vacant Land,IX/IJ,0.02723491,0.00819,0.03542491
+2012,Urban,Large Industrial - Occupied,LT,0.05970395,0.0126,0.07230395
+2012,Urban,Lg Industrial - Excess Land,LU,0.03880757,0.00819,0.04699757
+2012,Urban,Pipeline,PT,0.02889704,0.0126,0.04149704
+2012,Urban,Farm,FT,0.00411988,0.0005525,0.00467238
+2012,Urban,Managed Forests,TT,0.00411988,0.0005525,0.00467238
+2012,Rural,Residential,RT/RH,0.01588563,0.00221,0.01809563
+2012,Rural,Multi-Residential,MT,0.01991418,0.00221,0.02212418
+2012,Rural,Commercial - Occupied,CT/CH,0.03032058,0.0126,0.04292058
+2012,Rural,Commercial- New Construction,XT,0.03032058,0.0126,0.04292058
+2012,Rural,Commercial-New Construction-Excess Land,XU,0.02122441,0.00882,0.03004441
+2012,Rural,Commercial - Excess Land,CU,0.02122441,0.00882,0.03004441
+2012,Rural,Commercial - Vacant Land,CX/CJ,0.02242238,0.0126,0.03502238
+2012,Rural,General Rate Only (International Bridge),CM,0.03032058,0,0.03032058
+2012,Rural,Shopping Centres,ST,0.03218729,0.0126,0.04478729
+2012,Rural,Shopping - Excess Land,SU,0.0225311,0.00882,0.0313511
+2012,Rural,Office Buildings,DT,0.0442847,0.0126,0.0568847
+2012,Rural,Office Bldg - Excess Land,DU,0.0309993,0.00882,0.0398193
+2012,Rural,Parking Lots,GT,0.02242238,0.0126,0.03502238
+2012,Rural,Industrial - Occupied,IT/IH,0.0403899,0.0126,0.0529899
+2012,Rural,Industrial - New Construction,JT,0.0403899,0.0126,0.0529899
+2012,Rural,Industrial - New Constuction - Excess Land,JU,0.02625343,0.00819,0.03444343
+2012,Rural,Industrial - Excess Land,IU,0.02625343,0.00819,0.03444343
+2012,Rural,Industrial - Vacant Land,IX/IJ,0.02625343,0.00819,0.03444343
+2012,Rural,Large Industrial - Occupied,LT,0.05755237,0.0126,0.07015237
+2012,Rural,Lg Industrial - Excess Land,LU,0.03740904,0.00819,0.04559904
+2012,Rural,Pipeline,PT,0.02785566,0.0126,0.04045566
+2012,Rural,Farm,FT,0.00397141,0.0005525,0.00452391
+2012,Rural,Managed Forests,TT,0.00397141,0.0005525,0.00452391

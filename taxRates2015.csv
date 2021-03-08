@@ -1,0 +1,53 @@
+Year,Area,PropertyClass,RTC_RTQ,TaxRate_Municipal,TaxRate_Education,TaxRate_Total
+2015,Urban,Residential,RT/RH,0.01416,0.00195,0.01611
+2015,Urban,Multi-Residential,MT,0.01832786,0.00195,0.02027786
+2015,Urban,Commercial - Occupied,CT/CH,0.03031999,0.0119,0.04221999
+2015,Urban,Commercial-New Construction,XT,0.03031999,0.0119,0.04221999
+2015,Urban,Commercial-New Construction-Full Shared,XH,0.03031999,0.0119,0.04221999
+2015,Urban,Commercial-New Construction-Excess Land,XU,0.02122399,0.00833,0.02955399
+2015,Urban,Commercial - Excess Land,CU,0.02122399,0.00833,0.02955399
+2015,Urban,Commercial - Vacant Land,CX,0.0224165,0.0119,0.0343165
+2015,Urban,General Rate Only (International Bridge),CM,0.03031999,0,0.03031999
+2015,Urban,Shopping Centres,ST,0.03218665,0.0119,0.04408665
+2015,Urban,Shopping Centres- New Construction,ZT,0.03218665,0.0119,0.04408665
+2015,Urban,Shopping - Excess Land,SU,0.02253066,0.00833,0.03086066
+2015,Urban,Office Buildings,DT,0.04428381,0.0119,0.05618381
+2015,Urban,Office Buildings-New Construction,YH,0.04428381,0.0119,0.05618381
+2015,Urban,Office Bldg - Excess Land,DU,0.03099867,0.00833,0.03932867
+2015,Urban,Parking Lots,GT,0.0224165,0.0119,0.0343165
+2015,Urban,Industrial - Occupied,IT/IH,0.04196436,0.0119,0.05386436
+2015,Urban,Industrial - New Construction,JT,0.04196436,0.0119,0.05386436
+2015,Urban,Industrial - New Construction - Excess land,JU,0.02727684,0.007735,0.03501184
+2015,Urban,Industrial - Excess Land,IU,0.02727684,0.007735,0.03501184
+2015,Urban,Industrial - Vacant Land,IX/IJ,0.02727684,0.007735,0.03501184
+2015,Urban,Large Industrial - Occupied,LT,0.07452978,0.0119,0.08642978
+2015,Urban,Lg Industrial - Excess Land,LU,0.04844436,0.007735,0.05617936
+2015,Urban,Pipeline,PT,0.02839911,0.0119,0.04029911
+2015,Urban,Farm,FT,0.00354001,0.0004875,0.00402751
+2015,Urban,Managed Forests,TT,0.00354001,0.0004875,0.00402751
+2015,Rural,Residential,RT/RH,0.01356605,0.00195,0.01551605
+2015,Rural,Multi-Residential,MT,0.01755909,0.00195,0.01950909
+2015,Rural,Commercial - Occupied,CT/CH,0.02903689,0.0119,0.04093689
+2015,Rural,Commercial- New Construction,XT,0.02903689,0.0119,0.04093689
+2015,Rural,Commercial-New Construction-Full Shared,XH,0.02903689,0.0119,0.04093689
+2015,Rural,Commercial-New Construction-Excess Land,XU,0.02032582,0.00833,0.02865582
+2015,Rural,Commercial - Excess Land,CU,0.02032582,0.00833,0.02865582
+2015,Rural,Commercial - Vacant Land,CX,0.02146786,0.0119,0.03336786
+2015,Rural,General Rate Only (International Bridge),CM,0.02903689,0,0.02903689
+2015,Rural,Shopping Centres,ST,0.03082455,0.0119,0.04272455
+2015,Rural,Shopping Centres- New Construction,ZT,0.03082455,0.0119,0.04272455
+2015,Rural,Shopping - Excess Land,SU,0.02157719,0.00833,0.02990719
+2015,Rural,Office Buildings,DT,0.04240978,0.0119,0.05430978
+2015,Rural,Office Buildings-New Construction,YH,0.04240978,0.0119,0.05430978
+2015,Rural,Office Bldg - Excess Land,DU,0.02968685,0.00833,0.03801685
+2015,Rural,Parking Lots,GT,0.02146786,0.0119,0.03336786
+2015,Rural,Industrial - Occupied,IT/IH,0.04018848,0.0119,0.05208848
+2015,Rural,Industrial - New Construction,JT,0.04018848,0.0119,0.05208848
+2015,Rural,Industrial - New Constuction - Excess Land,JU,0.02612252,0.007735,0.03385752
+2015,Rural,Industrial - Excess Land,IU,0.02612252,0.007735,0.03385752
+2015,Rural,Industrial - Vacant Land,IX/IJ,0.02612252,0.007735,0.03385752
+2015,Rural,Large Industrial - Occupied,LT,0.07137578,0.0119,0.08327578
+2015,Rural,Lg Industrial - Excess Land,LU,0.04639426,0.007735,0.05412926
+2015,Rural,Pipeline,PT,0.0272079,0.0119,0.0391079
+2015,Rural,Farm,FT,0.00339152,0.0004875,0.00387902
+2015,Rural,Managed Forests,TT,0.00339152,0.0004875,0.00387902

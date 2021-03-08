@@ -1,0 +1,34 @@
+Year,Area,PropertyClass,RTC_RTQ,TaxRate_Municipal,TaxRate_Education,TaxRate_Total
+2018,Urban,Residential,RT/RH,0.01360325,0.0017,0.01530325
+2018,Urban,Multi-Residential-New Multi-Residential,MT/NT,0.01496357,0.0017,0.01666357
+2018,Urban,Commercial Occupied/Full Share/New Construction,CT/CH/XT/XH,0.0297008,0.0109,0.0406008
+2018,Urban,Commercial-New Construction/Excess Land,CU/XU,0.02079056,0.00763,0.02842056
+2018,Urban,Commercial - Vacant Land / Parking Lots,CX/GT,0.02195868,0.0109,0.03285868
+2018,Urban,General Rate Only (International Bridge Plaza),CM,0.0297008,0,0.0297008
+2018,Urban,Shopping Centres Occupied- New Construction,ST/ZT,0.03152932,0.0109,0.04242932
+2018,Urban,Shopping Centre - Excess Land,SU,0.02207053,0.00763,0.02970053
+2018,Urban,Office Buildings Occupied-New Construction,DT/YH,0.04128916,0.0109,0.05218916
+2018,Urban,Office Building - Excess Land,DU,0.02890242,0.00763,0.03653242
+2018,Urban,Industrial Occupied/Full Share/New Construction,IT/IH/JT,0.06387869,0.0109,0.07477869
+2018,Urban,Industrial - New Construction - Excess Land,JU/IU/IX/IJ,0.04152115,0.007085,0.04860615
+2018,Urban,Large Industrial - Occupied,LT,0.11345023,0.0109,0.12435023
+2018,Urban,Large Industrial - Excess Land,LU,0.07374264,0.007085,0.08082764
+2018,Urban,Landfills - Occupied,HF,0.02738175,0.0109,0.03828175
+2018,Urban,Pipeline,PT,0.02848397,0.0109,0.03938397
+2018,Urban,Farm / Managed Forests,FT/TT,0.00340082,0.000425,0.00382582
+2018,Rural,Residential,RT/RH,0.01302946,0.0017,0.01472946
+2018,Rural,Multi-Residential - New Multi-Residential,MT/NT,0.0143324,0.0017,0.0160324
+2018,Rural,Commercial Occupied/Full Share/New Construction,CT/CH/XT/XH,0.02844192,0.0109,0.03934192
+2018,Rural,Commercial-New Construction-Excess Land,CU/XU,0.01990934,0.00763,0.02753934
+2018,Rural,Commercial - Vacant Land / Parking Lots,CX/GT,0.02102795,0.0109,0.03192795
+2018,Rural,Shopping Centres Occupied- New Construction,ST/ZT,0.03019294,0.0109,0.04109294
+2018,Rural,Shopping Centre - Excess Land,SU,0.02113506,0.00763,0.02876506
+2018,Rural,Office Buildings Occupied-New Construction,DT/YH,0.0395391,0.0109,0.0504391
+2018,Rural,Office Building - Excess Land,DU,0.02767738,0.00763,0.03530738
+2018,Rural,Industrial Occupied/Full Share/New Construction,IT/IH/JT,0.06117116,0.0109,0.07207116
+2018,Rural,Industrial - New Construction - Excess Land - Vacant Land,JU/IU/IX/IJ,0.03976126,0.007085,0.04684626
+2018,Rural,Large Industrial - Occupied,LT,0.10864159,0.0109,0.11954159
+2018,Rural,Large Industrial - Excess Land,LU,0.07061703,0.007085,0.07770203
+2018,Rural,Landfills - Occupied,HF,0.02622678,0.0109,0.03712678
+2018,Rural,Pipeline,PT,0.02728251,0.0109,0.03818251
+2018,Rural,Farm / Managed Forests,FT/TT,0.00325737,0.000425,0.00368237

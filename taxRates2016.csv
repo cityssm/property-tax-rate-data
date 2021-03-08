@@ -1,0 +1,32 @@
+Year,Area,PropertyClass,RTC_RTQ,TaxRate_Municipal,TaxRate_Education,TaxRate_Total
+2016,Urban,Residential,RT/RH,0.01362266,0.00188,0.01550266
+2016,Urban,Multi-Residential,MT,0.01777441,0.00188,0.01965441
+2016,Urban,Commercial Occupied/Full Share/New Construction,CT/CH/XT/XH,0.02978376,0.0118,0.04158376
+2016,Urban,Commercial-New Construction/Excess Land,CU/XU,0.02084864,0.00826,0.02910864
+2016,Urban,Commercial - Vacant Land / Parking Lots,CX/GT,0.02202004,0.0118,0.03382004
+2016,Urban,General Rate Only (International Bridge Plaza),CM,0.02978376,0,0.02978376
+2016,Urban,Shopping Centres Occupied- New Construction,ST/ZT,0.03161741,0.0118,0.04341741
+2016,Urban,Shopping Centre - Excess Land,SU,0.02213218,0.00826,0.03039218
+2016,Urban,Office Buildings Occupied-New Construction,DT/YH,0.04350062,0.0118,0.05530062
+2016,Urban,Office Building - Excess Land,DU,0.03045044,0.00826,0.03871044
+2016,Urban,Industrial Occupied/Full Share/New Construction,IT/IH/JT,0.04192721,0.0118,0.05372721
+2016,Urban,Industrial - New Construction - Excess Land-Vacant Lan,JU/IU/IX/IJ,0.02725269,0.00767,0.03492269
+2016,Urban,Large Industrial - Occupied,LT,0.07446382,0.0118,0.08626382
+2016,Urban,Large Industrial - Excess Land,LU,0.04840148,0.00767,0.05607148
+2016,Urban,Pipeline,PT,0.0284175,0.0118,0.0402175
+2016,Urban,Farm / Managed Forests,FT/TT,0.00340567,0.00047,0.00387567
+2016,Rural,Residential,RT/RH,0.01303555,0.00188,0.01491555
+2016,Rural,Multi-Residential,MT,0.01700837,0.00188,0.01888837
+2016,Rural,Commercial Occupied/Full Share/New Construction,CT/CH/XT/XH,0.02848963,0.0118,0.04028963
+2016,Rural,Commercial-New Construction-Excess Land,CU/XU,0.01994275,0.00826,0.02820275
+2016,Rural,Commercial - Vacant Land / Parking Lots,CX/GT,0.02106325,0.0118,0.03286325
+2016,Rural,Shopping Centres Occupied- New Construction,ST/ZT,0.0302436,0.0118,0.0420436
+2016,Rural,Shopping Centre - Excess Land,SU,0.02117052,0.00826,0.02943052
+2016,Rural,Office Buildings Occupied-New Construction,DT/YH,0.04161048,0.0118,0.05341048
+2016,Rural,Office Building - Excess Land,DU,0.02912734,0.00826,0.03738734
+2016,Rural,Industrial Occupied/Full Share/New Construction,IT/IH/JT,0.04010543,0.0118,0.05190543
+2016,Rural,Industrial - New Construction - Excess Land-Vacant Lan,JU/IU/IX/IJ,0.02606853,0.00767,0.03373853
+2016,Rural,Large Industrial - Occupied,LT,0.07122829,0.0118,0.08302829
+2016,Rural,Large Industrial - Excess Land,LU,0.04629839,0.00767,0.05396839
+2016,Rural,Pipeline,PT,0.02719276,0.0118,0.03899276
+2016,Rural,Farm / Managed Forests,FT/TT,0.00325889,0.00047,0.00372889
