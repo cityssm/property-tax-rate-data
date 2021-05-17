@@ -1,0 +1,38 @@
+Year,Area,PropertyClass,RTC_RTQ,TaxRate_Municipal,TaxRate_Education,TaxRate_Total
+2021,Urban,Residential,RT/RH,0.01435067,0.00153,0.01588067
+2021,Urban,Multi-Residential-New Multi-Residential,MT/NT,0.01552742,0.00153,0.01705742
+2021,Urban,Commercial Occupied/Full Share/New Construction,CT/CH/XT/XH,0.02956194,0.0088,0.03836194
+2021,Urban,Commercial-New Construction/Excess Land,CU/XU,0.02069335,0.0088,0.02949335
+2021,Urban,Commercial-Small On-Farm Business,C7,0.02956194,0.0022,0.03176194
+2021,Urban,Commercial - Vacant Land / Parking Lots,CX/GT,0.02185599,0.0088,0.03065599
+2021,Urban,General Rate Only (International Bridge Plaza),CM,0.02956194,0,0.02956194
+2021,Urban,Shopping Centres Occupied- New Construction,ST/ZT,0.03138191,0.0088,0.04018191
+2021,Urban,Shopping Centre - Excess Land,SU,0.02196733,0.0088,0.03076733
+2021,Urban,Office Buildings Occupied-New Construction,DT/YH,0.04109617,0.0088,0.04989617
+2021,Urban,Office Building - Excess Land,DU,0.02876733,0.0088,0.03756733
+2021,Urban,Industrial Occupied/Full Share/New Construction,IT/IH/JT,0.0635801,0.0088,0.0723801
+2021,Urban,Industrial - New Construction - Excess Land - Vacant Land,JU/IU/IX/IJ,0.04132707,0.0088,0.05012707
+2021,Urban,Industrial - Small On-Farm Business,I7,0.0635801,0.0022,0.0657801
+2021,Urban,Large Industrial - Occupied,LT,0.11292,0.0088,0.12172
+2021,Urban,Large Industrial - Excess Land,LU,0.073398,0.0088,0.082198
+2021,Urban,Landfills - Occupied,HF,0.02703701,0.0088,0.03583701
+2021,Urban,Pipeline,PT,0.03004901,0.0088,0.03884901
+2021,Urban,Farm / Managed Forests,FT/TT,0.00358768,0.0003825,0.00397018
+2021,Rural,Residential,RT/RH,0.01375721,0.00153,0.01528721
+2021,Rural,Multi-Residential - New Multi-Residential,MT/NT,0.0148853,0.00153,0.0164153
+2021,Rural,Commercial Occupied/Full Share/New Construction,CT/CH/XT/XH,0.02831536,0.0088,0.03711536
+2021,Rural,Commercial-New Construction-Excess Land,CU/XU,0.01982075,0.0088,0.02862075
+2021,Rural,Commercial-Small On-Farm Business,C7,0.02831536,0.0022,0.03051536
+2021,Rural,Commercial - Vacant Land / Parking Lots,CX/GT,0.02093436,0.0088,0.02973436
+2021,Rural,Shopping Centres Occupied- New Construction,ST/ZT,0.03005859,0.0088,0.03885859
+2021,Rural,Shopping Centre - Excess Land,SU,0.02104101,0.0088,0.02984101
+2021,Rural,Office Buildings Occupied-New Construction,DT/YH,0.03936322,0.0088,0.04816322
+2021,Rural,Office Building - Excess Land,DU,0.02755426,0.0088,0.03635426
+2021,Rural,Industrial Occupied/Full Share/New Construction,IT/IH/JT,0.06089904,0.0088,0.06969904
+2021,Rural,Industrial - New Construction - Excess Land - Vacant Land,JU/IU/IX/IJ,0.03958438,0.0088,0.04838438
+2021,Rural,Industrial - Small On-Farm Business,I7,0.06089904,0.0022,0.06309904
+2021,Rural,Large Industrial - Occupied,LT,0.10815836,0.0088,0.11695836
+2021,Rural,Large Industrial - Excess Land,LU,0.07030293,0.0088,0.07910293
+2021,Rural,Landfills - Occupied,HF,0.02591892,0.0088,0.03471892
+2021,Rural,Pipeline,PT,0.02880636,0.0088,0.03760636
+2021,Rural,Farm / Managed Forests,FT/TT,0.00343931,0.0003825,0.00382181
