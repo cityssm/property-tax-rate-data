@@ -8,6 +8,7 @@ in the flexible CSV format.
 
 ## Tax Rates
 
+-   [2022](taxRates2022.csv)
 -   [2021](taxRates2021.csv)
 -   [2020](taxRates2020.csv)
 -   [2019](taxRates2019.csv)
@@ -27,4 +28,4 @@ in the flexible CSV format.
 -   [2005](taxRates2005.csv)
 -   [2004](taxRates2004.csv)
 
-[Tax Rates on SaultSteMarie.ca](https://saultstemarie.ca/City-Hall/City-Departments/Corporate-Services/Finance/Property-Tax/Tax-Rates.aspx)
+[Tax Rates on SaultSteMarie.ca](https://saultstemarie.ca/Government/City-Departments/Corporate-Services/Finance/Property-Tax/Tax-Rates.aspx)
