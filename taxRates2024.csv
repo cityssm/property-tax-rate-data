@@ -1,0 +1,33 @@
+Year,Area,PropertyClass,RTC_RTQ,TaxRate_Municipal,TaxRate_Education,TaxRate_Total
+2024,Urban,Residential,RT/RH,0.01636136,0.00153,0.01789136
+2024,Urban,Multi-Residential - New Multi-Residential,MT/NT,0.01770299,0.00153,0.01923299
+2024,Urban,Commercial Occupied/Full Share/New Construction,CT/CH/XT/XH,0.03173563,0.0088,0.04053563
+2024,Urban,Commercial - New Construction/Excess Land,CU/XU,0.02221494,0.0088,0.03101494
+2024,Urban,Commercial - Vacant Land / Parking Lots,CX/GT,0.02346307,0.0088,0.03226307
+2024,Urban,General Rate Only (International Bridge Plaza),CM,0.03173563,0,0.03173563
+2024,Urban,Shopping Centres Occupied- New Construction,ST/ZT,0.03368946,0.0088,0.04248946
+2024,Urban,Shopping Centre - Excess Land,SU,0.02358262,0.0088,0.03238262
+2024,Urban,Office Buildings Occupied - New Construction,DT/YH,0.04411799,0.0088,0.05291799
+2024,Urban,Office Building - Excess Land,DU,0.03088259,0.0088,0.03968259
+2024,Urban,Industrial Occupied/Full Share/New Construction,IT/IH/JT,0.06825521,0.0088,0.07705521
+2024,Urban,Industrial - New Construction - Excess Land - Vacant Land,JU/IU/IX/IJ,0.04436589,0.0088,0.05316589
+2024,Urban,Large Industrial - Occupied,LT,0.12122308,0.0088,0.13002308
+2024,Urban,Large Industrial - Excess Land,LU,0.078795,0.0088,0.087595
+2024,Urban,Landfills - Occupied,HF,0.03082519,0.0088,0.03962519
+2024,Urban,Pipeline,PT,0.03425922,0.0088,0.04305922
+2024,Urban,Farm/Managed Forests,FT/TT,0.00409034,0.0003825,0.00447284
+2024,Rural,Residential,RT/RH,0.01553792,0.00153,0.01706792
+2025,Rural,Multi-Residential - New Multi-Residential,MT/NT,0.01681203,0.00153,0.01834203
+2026,Rural,Commercial Occupied/Full Share/New Construction,CT/CH/XT/XH,0.03011082,0.0088,0.03891082
+2027,Rural,Commercial - New Construction/Excess Land,CU/XU,0.02107758,0.0088,0.02987758
+2028,Rural,Commercial - Vacant Land / Parking Lots,CX/GT,0.0222618,0.0088,0.0310618
+2029,Rural,Shopping Centre - Excess Land,SU,0.02237523,0.0088,0.03117523
+2030,Rural,Office Buildings Occupied-New Construction,DT/YH,0.04185923,0.0088,0.05065923
+2031,Rural,Office Building - Excess Land,DU,0.02930146,0.0088,0.03810146
+2032,Rural,Industrial Occupied/Full Share/New Construction,IT/IH/JT,0.06476067,0.0088,0.07356067
+2033,Rural,Industrial - New Construction - Excess Land - Vacant Land,JU/IU/IX/IJ,0.04209444,0.0088,0.05089444
+2034,Rural,Large Industrial - Occupied,LT,0.11501668,0.0088,0.12381668
+2035,Rural,Large Industrial - Excess Land,LU,0.07476084,0.0088,0.08356084
+2036,Rural,Landfills - Occupied,HF,0.02927381,0.0088,0.03807381
+2037,Rural,Pipeline,PT,0.03253501,0.0088,0.04133501
+2038,Rural,Farm/Managed Forests,FT/TT,0.00388448,0.0003825,0.00426698

@@ -8,6 +8,7 @@ in the flexible CSV format.
 
 ## Tax Rates
 
+- [2024](taxRates2024.csv)
 - [2023](taxRates2023.csv)
 - [2022](taxRates2022.csv)
 - [2021](taxRates2021.csv)
